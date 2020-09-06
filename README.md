@@ -9,3 +9,5 @@ Greetings, fair web traveller! What a lucky stop you have made in your journey f
 - Marina Carbonell Álvarez
 
 Born into humble beginnings, the Queens began their rise to glory the day they first set foot in the realm of **[Adalab](https://adalab.es/)**. There they fought many a valiant battle against the likes of foes so fierce as CSS, HTML, SASS, GULP, and the Dragon Called Git. The Queens defeated them all, proving themselves brave and worthy rulers of the interlands! This project stands record to their valor and wisdom.
+
+Built using HTML5, CSS3, mobile first responsive design, and lots of hard work.
