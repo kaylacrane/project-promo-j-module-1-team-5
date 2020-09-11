@@ -1,3 +1,5 @@
+![Queens of Code](https://github.com/kaylacrane/queens-of-code/blob/master/queens-of-code.JPG?raw=true)
+
 # Queens of Code - We rule with <style>
 
 Greetings, fair web traveller! What a lucky stop you have made in your journey for you have stumbled upon a most special _site_. At your tender fingertips is a first edition collaboration by **five amazing women** called the Queens of Code. First, the introductions:
